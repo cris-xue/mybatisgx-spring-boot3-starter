@@ -4,7 +4,7 @@
 
 	<groupId>com.mybatisgx</groupId>
 	<artifactId>mybatisgx-spring-boot3-starter</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>mybatisgx-spring-boot3-starter</name>
 	<url>http://www.mybatisgx.com</url>
 
