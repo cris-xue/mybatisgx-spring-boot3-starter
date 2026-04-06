@@ -4,7 +4,7 @@
 
 	<groupId>com.mybatisgx</groupId>
 	<artifactId>mybatisgx-spring-boot3-starter</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<name>mybatisgx-spring-boot3-starter</name>
 	<url>http://www.mybatisgx.com</url>
 
@@ -176,7 +176,7 @@
 		<connection>scm:git:git://github.com/cris-xue/mybatisgx-spring-boot3-starter.git</connection>
 		<developerConnection>scm:git:ssh://github.com/cris-xue/mybatisgx-spring-boot3-starter.git</developerConnection>
 		<url>https://github.com/cris-xue/mybatisgx-spring-boot3-starter</url>
-		<tag>HEAD</tag>
+		<tag>mybatisgx-0.0.4</tag>
 	</scm>
 
 	<distributionManagement>
